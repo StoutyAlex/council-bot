@@ -3,7 +3,7 @@ import { REST, Routes } from 'discord.js';
 // commands
 import audit from './commands/audit'
 
-const token = 'MTI3MDY3NjUzNjM0NDcwNzA3Mw.G3Ujks.-HyZd8ioE7E6Dr2Z7hYZFcznv1grUYmk-ME9r8';
+const token = 'xxx';
 const clientId = '1270676536344707073';
 const guildId = '1270685945095655435';
 
